@@ -11,6 +11,7 @@ environment:
 dependencies: 
   flutter:
     sdk: flutter
+  pdfx: ^2.0.0
 
 dev_dependencies:
   flutter_test:
@@ -20,5 +21,4 @@ dev_dependencies:
 # dependency_overrides:
 #   pdf_renderer: 
 #     path: ../pdf_renderer
-  pdfx:
-    path: ../pdfx
+
